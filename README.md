@@ -1,7 +1,3 @@
-
-
-
-
 # Team_Profile_Generator
 
 # Table of Contents
@@ -35,6 +31,7 @@
     * Bootstrap
     * Jest
     * Node.js
+    * npm
 
 # Installation Instructions
 
@@ -49,8 +46,8 @@ https://user-images.githubusercontent.com/81818805/129649038-2779f8ab-ee8e-4ae3-
 
 # Test 
 
+https://user-images.githubusercontent.com/81818805/129650781-64e5c887-3210-4d72-8ee3-ce82a64006be.mp4
   
-
 # License
 
   This repository is released under the license of: [MIT](https://opensource.org/licenses/MIT)
