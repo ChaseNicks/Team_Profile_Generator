@@ -34,6 +34,7 @@
     * JavaScript
     * Bootstrap
     * Jest
+    * Node.js
 
 # Installation Instructions
 
