@@ -33,7 +33,7 @@ describe("Manager", () => {
         });
         it("should call getOfficeNumber() and return the office number of Manager", () => {
             const name = "Chase";
-            const newId = "6G";
+            const newId = "0004";
             const setEmail = "chasenicks81@gmail.com";
             const newOffice = "6G";
             const newManager = new Manager(name, newId, setEmail, newOffice);
